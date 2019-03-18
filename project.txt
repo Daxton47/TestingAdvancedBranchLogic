@@ -1,5 +1,3 @@
 Master Branch
 
-All of these cool new updates, but doesn't include Hot Fix #1 commit pushed to testing branch
-
-Even more cool updates, but doesn't include Hot Fix #2
+Hot Fix #1
